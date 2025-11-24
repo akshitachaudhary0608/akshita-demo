@@ -1,4 +1,4 @@
 # akshita-demo
 This is my first git repository.
 <br>
-author - akshita
+author - akshita chaudhary
